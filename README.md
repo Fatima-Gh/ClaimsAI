@@ -37,7 +37,6 @@ Full demo video can be accessed [here](https://drive.google.com/file/d/1hpeRu4pP
 | Framework   | React 18            |
 | Build Tool  | Vite 6              |
 | Styling     | CSS-in-JS (inline)  |
-| Fonts       | DM Sans, JetBrains Mono (Google Fonts) |
 
 ---
 
